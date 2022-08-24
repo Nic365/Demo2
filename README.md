@@ -1,7 +1,7 @@
 # Demo1
 quelques tests avec git
 
-vi est mort, vive vi! (written with notepad haha)
+edition du document quelques jours plus tard
 
 
 
